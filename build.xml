@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="tei2html">
+    <taskdef resource="net/sf/antcontrib/antcontrib.properties"/>
+    <property name="index" value="./data/meta/about.xml"/>
+    <property name="target" value="./html"/>
+    <property name="target_xml" value="./html/xml-view"/>
+     
+    <delete>
+        <fileset dir="${target}" includes="*.html"/>
+    </delete>
+    
+    <xslt in="${index}" out="${target}/index.html" style="./xslt/index.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/diaries.html" style="./xslt/diaries.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+    <xslt in="${index}" out="${target}/imprint.html" style="./xslt/imprint.xsl">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>    
+    
+    <replace dir="${target}" value="">
+        <include name="*.html"/>
+        <replacetoken> xmlns=""</replacetoken>
+    </replace>
+</project>
