@@ -5,10 +5,8 @@
     xmlns:tei="http://www.tei-c.org/ns/1.0" 
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     version="2.0" exclude-result-prefixes="xsl tei xs">
-    
-    <xsl:variable name="volume">band_001</xsl:variable>
-    
-    <xsl:variable name="doc_toc" select="document('../data/xml/dirFileList.xml')"/>
+
+    <xsl:import href="./partials/html_dirFileList.xsl"/>
         
     <xsl:template match="/" name="toc_diaries">
         <div class="container" id="selectList">
@@ -21,7 +19,7 @@
     </xsl:template>
     
     <xsl:template name="toc_content">
-        <xsl:sequence select="$doc_toc"/>        
+        <xsl:call-template name="html_dirFileList"/>        
     </xsl:template>
     
 </xsl:stylesheet>

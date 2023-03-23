@@ -70,7 +70,7 @@
                                     <small>Please click on a reference.</small>
                                 </div>
                                 <div class="col-lg-9 pl-5 pr-0">
-                                    <h1>Letters</h1>
+                                    <h1>Diaries</h1>
                                     <!-- <h2 class="submenutitle"> · Benutzung</h2> -->
                                 </div>                            
                             </div>
