@@ -924,12 +924,8 @@ ul.list-texts .list-item h4 {
     margin-bottom: 0px;
 }
 
-.text .heading-texts h4:nth-child(2) {
+.texts .heading-text h4:nth-child(2) {
     margin-bottom: 0px;
-}
-
-.text .frame-texts {
-    margin-top: 10px;
 }
 
 /*RH*/
