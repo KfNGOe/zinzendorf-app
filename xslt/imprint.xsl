@@ -57,10 +57,6 @@
                                     <p>Offenlegung gem. § 25 Mediengesetz</p>
                                     
                                     <p>
-                                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-                                    </p>
-                                    
-                                    <p>
                                         Kommission für Neuere Geschichte Österreichs
                                         <br/>
                                         Leopold-Franzens Universität Innsbruck
@@ -77,7 +73,7 @@
                                     <p>
                                         Für den Inhalt verantwortlich:
                                         <br/>
-                                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                                        Univ. Prof. em. Dr. Grete Walter-Klingenstein (<a href="mailto:grete.walter-klingenstein@uni-graz.at">grete.walter-klingenstein(at)uni-graz.at</a>)
                                     </p>
 
                                     <p>
@@ -93,18 +89,10 @@
                                         Birgit Raitmayr, <a href="https://www.pixlerei.at" target="_blank">pixlerei.at</a>    
                                     </p> 
                                     
-                                    <p>
-                                        Dieses Projekt wird von folgenden Institutionen unterstützt:
-                                        <ul>
-                                            <li>- Kommission für Neuere Geschichte Österreichs</li>
-                                            <li>- Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</li>                                            
-                                        </ul>
-                                    </p>                                
-                                    
                                     <h2>Hinweise/Haftungsausschluss</h2>
                                     
                                     <p>Die bereitgestellten Informationen auf dieser Website wurden sorgfältig geprüft und werden regelmäßig aktualisiert. Für die Richtigkeit, Aktualität, Vollständigkeit und Verfügbarkeit der Informationen wird jedoch keine Haftung übernommen. Insbesondere können aus der Verwendung der abgerufenen Informationen keinerlei Ansprüche abgeleitet werden.</p>
-                                    <p>Links zu anderen Websites wurden sorgfältig ausgewählt. Auf deren Inhalte hat die Kommission für Neuere Geschichte Österreichs keinen Einfluss und kann daher für diese keine Haftung übernehmen. Wir distanzieren uns ausdrücklich von allen Inhalten dieser verlinkten Seiten, da die Kommission für Neuere Geschichte Österreichs auf deren Inhalt keinerlei Einfluss hat und sich diese Inhalte nicht zu eigen macht. Falls in dieser Datenbank und Website auf Seiten verwiesen wird, deren Inhalt Anlass zur Beanstandung gibt, bitten wir um Mitteilung.</p>
+                                    <p>Links zu anderen Websites wurden sorgfältig ausgewählt. Auf deren Inhalte hat die Kommission für Neuere Geschichte Österreichs keinen Einfluss und kann daher für diese keine Haftung übernehmen. Wir distanzieren uns ausdrücklich von allen Inhalten dieser verlinkten Seiten, da die Kommission für Neuere Geschichte Österreichs auf deren Inhalt keinerlei Einfluss haben und sich diese Inhalte nicht zu eigen machen. Falls in dieser Datenbank und Website auf Seiten verwiesen wird, deren Inhalt Anlass zur Beanstandung gibt, bitten wir um Mitteilung.</p>
                                 </div>
                                 <div class="en"></div>
                             </div>
