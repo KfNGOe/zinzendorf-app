@@ -8,8 +8,8 @@
         var title =  click_fn.attr("title");        
         var iframeDirStr = $( click_fn ).parents("div.collapse").attr("id") ;
         var iframeDir = iframeDirStr.substring(1);        
-        //var iframe = gitRepo_fn + "/data/pdf/" + iframeDir + "/" + title ;
-        var iframe = "data/pdf/" + title ;
+        var iframe = gitRepo_fn + "/data/pdf/" + iframeDir + "/" + title ;
+        //var iframe = "data/pdf/" + title ;
                 
         var href = click_fn.attr("href");
         var iframeId = href + " div:nth-child(2).frame-texts" ;
