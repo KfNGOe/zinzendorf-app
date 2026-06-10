@@ -12,7 +12,7 @@
                 <div class="collapse" id="_1765">
                     <ul class="submenu-start collapsable">
                         <li class="list-item">
-                            <a href="#_1765_text" title="Text_1765_pages.pdf">Tgb 1765</a>
+                            <a href="#_1765_text" title="Text_1765_pages.pdf">Tgb 1765 (Spanienreise)</a>
                         </li>
                     </ul>
                 </div>        
@@ -22,7 +22,7 @@
                 <div class="collapse" id="_1767">
                     <ul class="submenu-start collapsable">
                         <li class="list-item">
-                            <a href="#_1767_text" title="Text_1767_pages.pdf">Tgb 1767</a>
+                            <a href="#_1767_text" title="Text_1767_pages.pdf">Tgb 1767 (Spanienreise)</a>
                         </li>
                     </ul>
                 </div>        
