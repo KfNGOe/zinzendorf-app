@@ -15,7 +15,7 @@
                     </a>
                     <hr />
                     <a href="./" style="flex: 0 0 50%;display: flex; justify-content: center;">
-                        <img style=" max-width: 100% !important;max-height: 100% !important;margin: 0;" src="dist/assets/images/mockup/schriftzug_de.png" title="Edition der Tagebücher Karl Grafen Zinzendorfs" />
+                        <img style=" max-width: 100% !important;max-height: 100% !important;margin: 0;" src="dist/assets/images/mockup/schriftzug_de.png" title="Die Tagebücher des Karl Graf Zinzendorfs" />
                     </a>
                     <hr />
                 </div>

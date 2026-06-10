@@ -84,11 +84,35 @@
                                 <xsl:call-template name="toc_diaries"/>
                             </div>                                
                             <div class="texts col-lg-9 right-column pl-5 pr-0">
-                                <div class="container" id="text">
+                                <div class="container" id="text">                                    
+                                    <div class="text" id="_1767_text" style="display: none">
+                                        <div class="heading-texts">
+                                            <div class="de">
+                                               <h4>Tagebuch 1767 (Spanienreise)</h4>                                               
+                                            </div>
+                                            <div class="en">
+                                            </div>                                         
+                                        </div>
+                                        <div class="frame-texts" style="display: none">
+                                            
+                                        </div>                                        
+                                    </div>
+                                    <div class="text" id="_1765_text" style="display: none">
+                                        <div class="heading-texts">
+                                            <div class="de">
+                                               <h4>Tagebuch 1765 (Spanienreise)</h4>                                               
+                                            </div>
+                                            <div class="en">
+                                            </div>                                         
+                                        </div>
+                                        <div class="frame-texts" style="display: none">
+                                            
+                                        </div>                                        
+                                    </div>
                                     <div class="text" id="_1782_text" style="display: none">
                                         <div class="heading-texts">
                                             <div class="de">
-                                               <h4>Tagebuch 1882</h4>                                               
+                                               <h4>Tagebuch 1782</h4>                                               
                                             </div>
                                             <div class="en">
                                             </div>                                         
@@ -100,7 +124,7 @@
                                     <div class="text" id="_1783_text" style="display: none">
                                         <div class="heading-texts">
                                             <div class="de">
-                                               <h4>Tagebuch 1883</h4>                                               
+                                               <h4>Tagebuch 1783</h4>                                               
                                             </div>
                                             <div class="en">
                                             </div>                                         
@@ -112,7 +136,7 @@
                                     <div class="text" id="_1784_text" style="display: none">
                                         <div class="heading-texts">
                                             <div class="de">
-                                               <h4>Tagebuch 1884</h4>                                               
+                                               <h4>Tagebuch 1784</h4>                                               
                                             </div>
                                             <div class="en">
                                             </div>                                         

@@ -10,13 +10,13 @@
             <div class="texts" id="start_text">
                 <div class="heading-text">
                     <div class="de">
-                        <h4>Die Edition der Wiener Tagebücher des Karl Grafen Zinzendorf (1739–1813)</h4>                        
+                        <h4>Die Tagebücher des Karl Graf Zinzendorfs (1739–1813)</h4>                        
                     </div>
                     <div class="en" style="display: none"/>
                 </div>
                 <div class="text">
                     <div class="de">
-                        <p>Diese Website bietet Ihnen einen Zugang zu den sogenannten Wiener Tagebüchern von Karl Graf Zinzendorf aus den Jahren 1782–1790.</p>
+                        <p>Diese Website bietet Ihnen einen Zugang zu den sogenannten Wiener Tagebüchern von Karl Graf Zinzendorf aus den Jahren 1782–1790 und zwei Tagebüchern von dessen Spanienreisen in den Jahren 1765 und 1767.</p>
                     </div>
                     <div class="en" style="display: none"/>
                 </div>
@@ -37,14 +37,14 @@
                 </div>
                 <div class="heading-text">
                     <div class="de">
-                        <h6>Zu den Tagebüchern Karl Grafen Zinzendorfs</h6>                        
+                        <h6>Zu den Tagebüchern Karl Graf Zinzendorfs</h6>                        
                     </div>
                     <div class="en" style="display: none"/>
                 </div>
                 <div class="text">
                     <div class="de">
                         <p>Zinzendorf führte Tagebuch in französischer Sprache kontinuierlich von seiner Kindheit (1749/1752) an bis zu seinem Tod. Die 56 Tagebuchbände bilden einen Teil des umfangreichen Nachlasses Zinzendorf im <a href="https://www.archivinformationssystem.at/detail.aspx?ID=21877" target="_blank">Haus-, Hof- und Staatsarchiv Wien</a>. Die Gluck-, Mozart-, Haydn- und Rousseau-Forschung hat das Tagebuch als Quelle bereits vor 1900 entdeckt. Doch erst der Salzburger Historiker Hans Wagner (1921–1990) gab zu Beginn der 1970er Jahre als Mitglied der Kommission für Neuere Geschichte Österreichs die Anregung zur Erschließung dieses höchst bedeutsamen Zeitdokuments und Selbstzeugnisses, das durch regelmäßige Eintragungen, dichte Beobachtung und kritische Selbstreflexion besticht.</p>
-                        <p>Die <a href="https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/geschichte-der-neuzeit/50249/karl-graf-von-zinzendorf" target="_blank">Jugendtagebücher Karl Zinzendorfs</a> aus den Jahren 1747/1752–1763 sowie die <a href="https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/geschichte-der-neuzeit/50204/europaeische-aufklaerung-zwischen-wien-und-triest" target="_blank">Tagebücher Zinzendorfs zwischen 1776 und 1782</a>, als er Gouverneur in Triest war, sind in Buchform bereits erschienen. Die „Jugendtagebücher“ bringen ausgewählte Texte zum Familienleben, zur religiösen Bildung und Erziehung im pietistisch geprägten Elternhaus in Gauernitz bei Dresden, zum Studium in Jena mit Ausflügen nach Weimar und Erfurt, zur Akkulturation im Milieu des Wiener Hofadels, zu den Anfängen als einer der für Wien und Niederösterreich zuständigen Kommerzienräte und zur ersten Reise nach Danzig. Die Tagebücher aus der Triester Zeit verdeutlichen Karls wirtschaftspolitische Vorstellungen und Initiativen in Triest, das eine wichtige wirtschaftliche Stellung in der Monarchie besaß. Die anderen Schauplätze des Tagebuches sind Wien, Venedig und als Randzonen der Aufklärung Görz-Gradisca, Kärnten, Krain, Istrien und die Kroatische Militärgrenze. In Wien führte er in den Audienzen bei Maria Theresia und Joseph II. und in den Salons des kosmopolitischen Hofadels Gespräche über die Innen- und Außenpolitik und über das Weltgeschehen, u. a. die Amerikanische Revolution und Cooks Weltumseglung, und aus den Reihen der Bürokratie treten Männer der zweiten Ebene als Mitarbeiter wichtiger Reformvorhaben hervor. Wie kein anderes Zeitdokument spiegeln die Tagebücher das Kräftespiel der politischen und wirtschaftlichen Interessen von den untersten lokalen Ebenen bis zu den höchsten Entscheidungsinstanzen in Wien wieder.</p>
+                        <p>Die <a href="https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/geschichte-der-neuzeit/50249/karl-graf-von-zinzendorf" target="_blank">Jugendtagebücher Karl Zinzendorfs</a> aus den Jahren 1747/1752–1763 sowie die <a href="https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/geschichte/geschichte-der-neuzeit/50204/europaeische-aufklaerung-zwischen-wien-und-triest" target="_blank">Tagebücher Zinzendorfs zwischen 1776 und 1782</a>, als er Gouverneur in Triest war, sind in Buchform bereits erschienen. Die „Jugendtagebücher“ bringen ausgewählte Texte zum Familienleben, zur religiösen Bildung und Erziehung im pietistisch geprägten Elternhaus in Gauernitz bei Dresden, zum Studium in Jena mit Ausflügen nach Weimar und Erfurt, zur Akkulturation im Milieu des Wiener Hofadels, zu den Anfängen als einer der für Wien und Niederösterreich zuständigen Kommerzienräte und zur ersten Reise nach Danzig. Die Tagebücher aus der Triester Zeit verdeutlichen Karls wirtschaftspolitische Vorstellungen und Initiativen in Triest, das eine wichtige wirtschaftliche Stellung in der Monarchie besaß. Die anderen Schauplätze des Tagebuches sind Wien, Venedig und als Randzonen der Aufklärung Görz-Gradisca, Kärnten, Krain, Istrien und die Kroatische Militärgrenze. In Wien führte er in den Audienzen bei Maria Theresia und Joseph II. und in den Salons des kosmopolitischen Hofadels Gespräche über die Innen- und Außenpolitik und über das Weltgeschehen, u. a. die Amerikanische Revolution und Cooks Weltumseglung, und aus den Reihen der Bürokratie treten Männer der zweiten Ebene als Mitarbeiter wichtiger Reformvorhaben hervor. Wie kein anderes Zeitdokument spiegeln die Tagebücher das Kräftespiel der politischen und wirtschaftlichen Interessen von den untersten lokalen Ebenen bis zu den höchsten Entscheidungsinstanzen in Wien wider.</p>
                         <p>Die Tagebücher, die die Reisen Zinzendorfs in die Schweiz (1764), nach England, Schottland und Irland (1768), nach Ost- und Nordeuropa (1774/75) sowie nach Spanien behandeln, werden derzeit für die Edition vorbereitet und sollen ebenfalls in Buchform erscheinen.</p>
                     </div>
                     <div class="en" style="display: none"/>
@@ -58,12 +58,30 @@
                 <div class="text">
                     <div class="de">
                         <p>Die vorliegende Edition der Wiener Tagebücher ist in Form einer PDF-Edition gestaltet. Diese Edition ist dem Wunsch entsprungen, die von Grete Klingenstein über Jahre bearbeiteten Tagebücher möglichst vielen Nutzer:innen zugänglich zu machen. Zu beachten gilt dabei, dass die Transkriptionen zwar vollständig sind und den Ansprüchen historischer Editionen genügen, es jedoch weder einen Kommentar noch ein Register zu den unzähligen Personen- und Ortsnamen gibt.</p>
-                        <p>Die Tagebücher sind nach Jahren gegliedert und umfassen jeweils einen Band der Tagebücher Zinzendorfs. Die jeweilige Bandnummer ist zu Beginn jedes Jahrgangs verzeichnet, die Signatur des Bestandes im Haus-, Hof- und Staatsarchiv lautet: AT-OeStA/HHStA KA Nachlass Zinzendorf, Tagebücher. Die Transkriptionen der einzelnen Jahrgänge sind so wiedergegeben, dass jeweils eine Seite in der PDF-Edition einer Seite des Originals entspricht. Die Angaben zur Paginierung finden sich am linken Rand. Die zusätzlichen Angaben verweisen auf die entsprechenden Scans der Seiten, deren Abbildung derzeit nicht geplant ist.</p>
+                        <p>Die Tagebücher sind nach Jahren gegliedert und umfassen jeweils einen Band der Tagebücher Zinzendorfs. Die jeweilige Bandnummer ist zu Beginn jedes Jahrgangs verzeichnet, die Signatur des Bestandes im Haus-, Hof- und Staatsarchiv lautet: AT-OeStA/HHStA KA Nachlass Zinzendorf, Tagebücher. Die Transkriptionen der einzelnen Jahrgänge sind so wiedergegeben, dass jeweils eine Seite in der PDF-Edition einer Seite des Originals entspricht. Die Angaben zur Paginierung finden sich am linken Rand. Die zusätzlichen Angaben verweisen auf die entsprechenden Scans der Seiten, deren Abbildung derzeit nicht geplant ist.</p>                
+                    </div>
+                    <div class="en" style="display: none"/>
+                </div>
+                <div class="heading-text">
+                    <div class="de">
+                        <h6>Zur Edition der Spanientagebücher</h6>                        
+                    </div>
+                    <div class="en" style="display: none"/>
+                </div>
+                <div class="text">
+                    <div class="de">
+                        <p>Neben den Wiener Tagebücher werden auf dieser Website auch jene Tagebücher veröffentlicht, die Zinzendorfs auf seinen Spanienreisen angefertigt hat. Der erste, sehr kurze Text, stammt aus dem Jahr 1765 und behandelt Kurzaufenthalte in Barcelona, Alicante und auf Mallorca. Vermutlich handelt es sich dabei um Fragmente aus dem Reisetagebuch von 1764 und 1765, als Zinzendorf nicht nur in die Schweiz, sondern auch nach Südfrankreich, Malta und Italien reiste.  Der zweite Text stammt aus dem Jahr 1767, ist viel ausführlicher und beschreibt Zinzendorfs Spanienreise ab der französisch-spanischen Grenze, seine Reise durch Navarra und Kastilien (mit einem längeren Aufenthalt in Madrid), Murcia (mit einem besonderen Aufenthalt in Cartagena) und Andalusien (mit Aufenthalten in Gibraltar, Cádiz und Sevilla), bis er schließlich durch Extremadura an die Grenze nach Portugal gelangt.</p>
+                    </div>
+                    <div class="en" style="display: none"/>
+                </div>                    
+                <div class="text">
+                    <div class="de">
+                        <p>Die hier zur Verfügung gestellten PDFs der Transkriptionen sollen die Tagebuchtexte zugänglich machen, bis die ausführliche Edition der Tagebücher mit einer Einleitung, ausführlichem Kommentar und zusätzlichen Materialien in gedruckter Form erscheinen wird.</p>
                         <p>Die Kommission für Neuere Geschichte Österreichs hofft, mit dieser PDF-Edition diese außerordentlich interessante Quelle einem großen Nutzer:innenkreis zur Verfügung stellen zu können. Bei Rückfragen wenden Sie sich bitte an Grete Klingenstein (<a href="mailto:grete.walter-klingenstein@uni-graz.at">grete.walter-klingenstein[at]uni-graz.at</a> oder an Christof Aichner (<a href="mailto:christof.aichner@uibk.ac.at">christof.aichner[at]uibk.ac.at</a>).</p>
                     </div>
                     <div class="en" style="display: none"/>
                 </div>
             </div>
-        </div>
+        </div>                    
     </xsl:template>
 </xsl:stylesheet>

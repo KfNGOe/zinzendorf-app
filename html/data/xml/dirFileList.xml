@@ -1,6 +1,26 @@
 
 <ul class="submenu-start">
     <li class="list-item">
+        <a data-toggle="collapse" href="#_1765" role="button">1765</a>
+        <div class="collapse" id="_1765">
+            <ul class="submenu-start collapsable">
+                <li class="list-item">
+                    <a href="#_1765_text" title="Text 1765 pages.pdf">Tgb 1765</a>
+                </li>
+            </ul>
+        </div>        
+    </li>
+    <li class="list-item">
+        <a data-toggle="collapse" href="#_1767" role="button">1767</a>
+        <div class="collapse" id="_1767">
+            <ul class="submenu-start collapsable">
+                <li class="list-item">
+                    <a href="#_1767_text" title="Text 1767 pages.pdf">Tgb 1767</a>
+                </li>
+            </ul>
+        </div>        
+    </li>
+    <li class="list-item">
         <a data-toggle="collapse" href="#_1782" role="button">1782</a>
         <div class="collapse" id="_1782">
             <ul class="submenu-start collapsable">
